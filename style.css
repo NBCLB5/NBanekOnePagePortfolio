@@ -6,11 +6,11 @@ body {
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	background-image: url("coffee.jpg");
+	background-image: url("../images/coffee.jpg");
 }
 #container{
  background: black;
- width: 600px;
+ width: 500px;
  color: white;
  padding: 15px;
  font-size: 18px;
