@@ -6,7 +6,7 @@ body {
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	background-image: url("../images/coffee.jpg");
+	background-image: url("coffee.jpg");
 }
 #container{
  background: black;
